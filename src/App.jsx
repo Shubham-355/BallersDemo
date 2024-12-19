@@ -1,8 +1,8 @@
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import Navbar from './Components/Navbar';
-import HomePage from './pages/HomePage';
-import AboutPage from './pages/AboutPage';
-import PhilanthropyPage from './pages/PhilanthropyPage';
+import HomePage from './Pages/HomePage';
+import AboutPage from './Pages/AboutPage';
+import PhilanthropyPage from './Pages/PhilanthropyPage';
 import InvestmentsPage from './Pages/InvestmentsPage';
 import Footer from './Components/Footer';
 
