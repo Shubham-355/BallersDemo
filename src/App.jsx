@@ -1,12 +1,11 @@
 import React from 'react';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
+import Navbar from './Components/Navbar';
 import HomePage from './pages/HomePage';
 import AboutPage from './pages/AboutPage';
 import PhilanthropyPage from './pages/PhilanthropyPage';
 import InvestmentsPage from './Pages/InvestmentsPage';
-import Navbar from './Components/Navbar';
 import Footer from './Components/Footer';
-
 
 function App() {
   return (
